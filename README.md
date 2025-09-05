@@ -1,12 +1,23 @@
--👋 Hi, I’m @Yogita2409
-- 👀 I’m interested in coding  
-- 🌱 I’m currently learning web development
-- 💞️ I’m looking to collaborate with some reputed companies
-- 📫 you can reach me by my linkedln id https://www.linkedin.com/in/yogita-20a782293?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
-- 😄 Pronouns: she/her
-- ⚡ Fun fact: didnt get till now 
+![Banner](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=250&section=header&text=Hi%20👋,%20I'm%20Yogita!&fontSize=45&fontAlignY=40&desc=Frontend%20Developer%20|%20Data%20Analyst%20|%20Problem%20Solver&descAlignY=65&descAlign=50)
 
-<!---
-Yogita2409/Yogita2409 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+👋 Hi, I'm Yogita
+💡 Frontend Developer | Data Analytics Enthusiast | Lifelong Learner
+I love building interactive websites and data-driven dashboards that turn ideas into reality. My journey blends creativity with analytics — from crafting user-friendly UIs to uncovering business insights hidden in data.
+
+🚀 About Me
+🌱 Currently learning Advanced DAX & Full-Stack Development
+🛠️ Love working with Frontend web designs & Power BI
+🎯 Goal: To grow into a Data-driven Developer who bridges business & technology
+⚡ Fun fact: I turn dummy datasets into dashboards that feel real 😉
+
+🔧 Tech Stack
+📊 Data & Analytics
+Power BI, Tableau, Excel
+SQL, Python (Pandas, NumPy, Matplotlib)
+Power Query, DAX
+
+💻 Frontend Development
+HTML, CSS, JavaScript
+Bootstrap
+Github
+
