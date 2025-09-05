@@ -41,6 +41,6 @@ My journey blends **creativity with analytics** — from crafting user-friendly 
 ## 📂 Featured Projects  
 
 - 🚖 [**OLA Power BI Dashboard**](https://github.com/Yogita2409/ola-dashboard) – Insights on bookings, cancellations, revenue & ratings  
-- 🌐 [**Portfolio Website**](https://github.com/Yogita2409/MyPortfolio0.1) – React + Tailwind, designed to showcase my work beautifully  
+- 🌐 [**Portfolio Website**](https://github.com/Yogita2409/MyPortfolio0.1) –  designed to showcase my work beautifully  
   
 ---
