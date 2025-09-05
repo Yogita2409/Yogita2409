@@ -1,4 +1,5 @@
-![Banner](https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,100:2c5364&height=200&section=header&text=Hi%20👋,%20I'm%20Yogita!&fontSize=32&fontColor=ffffff&desc=💻%20Frontend%20Developer%20|%20📊%20Data%20Analyst%20|%20🚀%20Problem%20Solver&descSize=16&descAlignY=70&descAlign=50)
+![Banner](https://capsule-render.vercel.app/api?type=rect&color=0:2e026d,100:9333ea&height=200&section=header&text=Hi%20👋,%20I'm%20Yogita!&fontSize=32&fontColor=ffffff&desc=💻%20Frontend%20Developer%20|%20📊%20Data%20Analyst%20|%20🚀%20Problem%20Solver&descSize=16&descAlignY=70&descAlign=50)
+
 
 
 
